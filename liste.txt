@@ -1,0 +1,5 @@
+1. Kullanıcı dostu arayüz  
+2. Çoklu dil desteği  
+3. Güvenlik özellikleri  
+4. Hızlı performans  
+
