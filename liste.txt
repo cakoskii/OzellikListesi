@@ -1,6 +1,6 @@
-1. Kullanıcı dostu arayüz  
+1. Güvenlik özellikleri 
 2. Çoklu dil desteği  
-3. Güvenlik özellikleri  
+3. Kullanıcı dostu arayüz 
 4. Hızlı performans  
 5. Anlaşılabilir basit komutlar
 
