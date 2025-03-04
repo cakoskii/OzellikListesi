@@ -1,4 +1,4 @@
-1. Kullanıcı dostu arayüz  
-2. Güvenlik özellikleri  
-
-
+1. Karanlık mod desteği  
+2. Çoklu dil desteği  
+3. Hızlı performans  
+4. Kullanıcı dostu arayüz  
